@@ -19,7 +19,6 @@ A modern and interactive portfolio designed with clean UI, smooth animations, an
 ## 🧠 Projects
 
 * Multi-feature rental platform interface
-* Interactive 3D web experience
 * Modern portfolio UI with animations
 
 ---
