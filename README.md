@@ -1,16 +1,72 @@
-# React + Vite
+# 🌐 Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive portfolio designed with clean UI, smooth animations, and a focus on user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* Responsive design (mobile, tablet, desktop)
+* Smooth animations using Framer Motion
+* Modern UI with Tailwind CSS
+* Project showcase section
+* Interactive UI elements
+* Clean and minimal design
+* Contact form integration (EmailJS)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Multi-feature rental platform interface
+* Interactive 3D web experience
+* Modern portfolio UI with animations
+
+---
+
+## 🛠 Tech Stack
+
+* React.js
+* Tailwind CSS
+* Framer Motion
+* EmailJS
+
+---
+
+## 📦 Run Locally
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root and add:
+
+```bash
+VITE_EMAILJS_SERVICE_ID=your_service_id
+VITE_EMAILJS_TEMPLATE_ID=your_template_id
+VITE_EMAILJS_PUBLIC_KEY=your_public_key
+```
+
+---
+
+## 🌍 Live Demo
+
+https://your-vercel-link.vercel.app
+
+---
+
+## 👩‍💻 Author
+
+**Tabinda Ghazanfar**
+
+* LinkedIn: https://www.linkedin.com/in/tabinda-ghazanfar-520a63393/
+* Email: [tabindaghazanfar4@gmail.com](mailto:tabindaghazanfar4@gmail.com)
+
+---
+
+⭐ If you like this project, feel free to give it a star!
